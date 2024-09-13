@@ -2,7 +2,7 @@ package com.example.demo;
 
 public class Test {
 
-    public String testt() {
+    public int testt() {
         return 1;
     }
 }
